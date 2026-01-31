@@ -57,7 +57,7 @@ vector<Course> inputCourses() {
 	int lineCount = 0;
 
 	cout << "========================================" << endl;
-	cout << "    GPA计算程序 - 东南大学吴健雄学院夏滔" << endl;
+	cout << "    GPA计算程序 - by东南大学吴健雄学院夏滔" << endl;
 	cout << "========================================" << endl;
 	cout << "\n使用说明：" << endl;
 	cout << "1. 请输入课程信息，格式为：课程名 学分 百分制分数" << endl;
@@ -326,4 +326,5 @@ int main() {
 	cin.get();
 
 	return 0;
+
 }
